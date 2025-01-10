@@ -1,0 +1,20 @@
+.box1 {
+    background-color: pink;
+    width: 400px;
+    height: 200px;
+    border: 1px solid;
+}
+.box2 {
+    background-color: pink;
+    width: 400px;
+    height: 200px;
+    transform: rotate(25deg);
+    border: 1px solid;
+}
+.box3 {
+    background-color: pink;
+    width: 400px;
+    height: 200px;
+    transform: rotate(-25deg);
+    border: 1px solid;
+}
